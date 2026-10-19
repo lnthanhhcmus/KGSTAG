@@ -1,0 +1,20 @@
+# PyTorch and PyTorch Geometric are installed first (see README, section 1):
+#   pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu126
+#   pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.6.0+cu126.html
+torch_geometric
+sparse
+pycocoevalcap
+h5py
+tensorboardX
+boto3
+requests
+pandas
+tqdm
+nltk
+ftfy
+regex
+open_clip_torch
+transformers
+psutil
+opencv-python
+Pillow
